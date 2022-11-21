@@ -1,0 +1,11 @@
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\bin\Debug\net5.0\MyLib2.deps.json
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\bin\Debug\net5.0\MyLib2.dll
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\bin\Debug\net5.0\ref\MyLib2.dll
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\bin\Debug\net5.0\MyLib2.pdb
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\MyLib2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\MyLib2.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\MyLib2.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\MyLib2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\MyLib2.dll
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\ref\MyLib2.dll
+C:\Users\ASUS TUF GAMING\source\repos\mylib\MyLib2\obj\Debug\net5.0\MyLib2.pdb
